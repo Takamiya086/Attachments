@@ -12,4 +12,4 @@ If you don't want to use the web interface, you can call the API provided by Com
 
 :interrobang: **questionable**: Sexually suggestive, but without directly exposing genitals.
 
-:x: **uncensored**: Explicit images with exposed genitals.
+:x: **explicit**: Explicit images with exposed genitals.
